@@ -41,10 +41,6 @@ The dashboard provides the following key insights:
 - Analytical insights on global content trends
 - Publishing reports for web sharing
 
-## 📷 Screenshots
-
-
-
 ## 📎 How to Use This Project
 
 1. Download the dataset from Kaggle.
